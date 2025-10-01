@@ -1,8 +1,22 @@
 # KATARION
 
-Welcome to the official GitHub organization for KATARION! We are a dynamic team focused on innovative solutions and cutting-edge development. This repository serves as a hub for our projects, showcasing our commitment to quality code and collaboration.
+Welcome to **KATARION**, a software company driving innovation through cutting-edge development! This GitHub organization hosts our projects, featuring both exciting **open-source** initiatives and private repositories, showcasing our commitment to quality code and collaboration.
 
-- **Mission**: To deliver impactful technology with a modern approach.
-- **Explore**: Check out our repositories for open-source contributions, tools, and more.
+## Our Mission
+- Build impactful software solutions with a modern approach.
+- Share knowledge through open-source and power private projects.
 
-Join us in building the future—star our repos, contribute, and stay updated!
+## Explore Our Work
+- Discover our **open-source projects**—contribute, learn, and collaborate!
+- Peek into our ecosystem, with private repos fueling custom solutions.
+
+## Meet the Founder
+- **Francisco Marín**  
+  Creator of KATARION (@franmc01), Francisco leads with a passion for software development. Check out his journey! [https://github.com/franmc01](https://github.com/franmc01)
+
+## Join Us!
+- **Contribute**: Help shape our open-source projects with pull requests or ideas.
+- **Collaborate**: Interested in private projects? Reach out to explore opportunities!
+- **Stay Connected**: Watch this org for updates and join our growing community!
+
+*Let’s build the future of software together!*
